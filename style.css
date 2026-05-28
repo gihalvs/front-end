@@ -1,0 +1,10 @@
+p {
+    /* Configura a família da fonte */
+    font-family: 'Arial', sans-serif;
+    
+    /* Configura o tamanho da fonte */
+    font-size: 18px;
+    
+    /* Configura a cor do texto */
+    color: #2c3e50;
+}
